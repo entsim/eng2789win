@@ -1,4 +1,4 @@
-image: excess17/eng-2789:0.0.1-SNAPSHOT
+image: entsim/eng2789win:v1.0.0
 dbms: postgresql
 healthCheckPath: "/management/health"
 roles:
